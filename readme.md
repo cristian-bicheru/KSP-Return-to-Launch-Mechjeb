@@ -1,4 +1,4 @@
-# Kerbal Space Program Return to Launch Site
+# Kerbal Space Program Automated Return to Launch Site
 Python script using kRPC and Mechjeb2 to launch and land a reusable first stage.
 Upon landing the first stage, the code switches to the second stage and executes
 the final burn(s) to enter the desired orbit.
