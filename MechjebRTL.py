@@ -2,7 +2,8 @@
 
 Executes a retrograde burn until the first stage velocity is cancelled out. Then,
 the descent is performed by the Mechjeb landing autopilot. Once the landing is
-complete, 
+complete, control flow is transferred back the the main program for second stage
+orbital insertion.
 """
 import time
 
